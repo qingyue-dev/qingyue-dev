@@ -17,7 +17,7 @@
 
 <div align="center">
 
-> **关于我 · About Me**
+> **关于我**
 
 </div>
 
@@ -51,7 +51,7 @@ const qingyue = {
 
 <div align="center">
 
-> **💼 技术栈 · Tech Stack**
+> **💼 技术栈**
 
 **👨‍💻 日常主力工具**
 
@@ -91,23 +91,7 @@ const qingyue = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=qingyue-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-[![青月的 GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=qingyue-dev&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-**📫 找我 · Connect with Me**
+**📫 找我**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qingyue-dev)
 
